@@ -11,4 +11,5 @@
   <button on:click={generateRandomNumber}>Generate Random Number</button>
   <p>Random Number: {randomNumber}</p>
   <script src="https://alwingulla.com/88/tag.min.js" data-zone="18164" async data-cfasync="false"></script>
+  <script src="https://alwingulla.com/88/tag.min.js" data-zone="18251" async data-cfasync="false"></script>
 </div>
