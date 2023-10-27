@@ -1,7 +1,7 @@
 <script src="https://alwingulla.com/88/tag.min.js" data-zone="18251" async data-cfasync="false"></script>
 
 <style>
-...
+
 </style>
 
 <div class="ads-widget-container">
