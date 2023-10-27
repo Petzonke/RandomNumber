@@ -4,6 +4,7 @@
   
   <main>
 	<RandomNumber />
+	<script src="https://alwingulla.com/88/tag.min.js" data-zone="18164" async data-cfasync="false"></script>
   </main>
   
   <style>
